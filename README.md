@@ -34,4 +34,4 @@
 ### &nbsp;Reach Me Via
 
 <a href="mailto:mohamedamine.toumi@supcom.tn"><img src="https://img.shields.io/badge/-mohamedamine.toumi@supcom.tn-000?&logo=Gmail"/></a>
-<a href="https://www.linkedin.com/in/aminetoumi/"><img src="https://img.shields.io/badge/-Ghazi%20Tounsi-000?&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/aminetoumi/"><img src="https://img.shields.io/badge/-Mohamed%20Amine%20Toumi-000?&logo=Linkedin"/></a>
