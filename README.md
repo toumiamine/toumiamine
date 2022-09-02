@@ -26,9 +26,6 @@
 ### &nbsp;Softwares
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobe-photoshop)
-![After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=adobe-after-effects)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 
 ### &nbsp;Github Analytics
 
