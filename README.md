@@ -1,12 +1,11 @@
-## 👋 &nbsp;Hi! I'm Ghazi
+## 👋 &nbsp;Hi! I'm Mohamed Amine
 
 ### &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying ICT at Higher school of communication of Tunis.\
-⚙️ &nbsp;I started as a Game Developer using Unity3D and Blender
-🌱 &nbsp;Now, I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software developement, and Embedded Systems.\
-😍 &nbsp;In my free time, I pursue 3D modeling, Video Editing and Blog Reading as hobbies/side hustles.\
+🌱 &nbsp;I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software engineering, and Embedded Systems.\
+😍 &nbsp;In my free time, I pursue Social media managemet, Video Editing and Cars Blog Writing as hobbies/side hustles.\
 📄 I'm open to any feedbacks, suggestions and offers!
 
 ### &nbsp;Languages I Use
