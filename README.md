@@ -34,4 +34,4 @@
 ### &nbsp;Reach Me Via
 
 <a href="mailto:amine.tou@outlook.com"><img src="https://img.shields.io/badge/-amine.tou@outlook.com-000?&logo=Gmail"/></a>
-<a href="https://www.linkedin.com/in/aminetoumi/"><img src="https://img.shields.io/badge/0Amine%20Toumi-000?&logo=Linkedin"/></a>
+<a href="https://www.linkedin.com/in/aminetoumi/"><img src="https://img.shields.io/badge/Amine%20Toumi-000?&logo=Linkedin"/></a>
