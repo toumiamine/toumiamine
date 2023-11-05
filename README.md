@@ -1,9 +1,9 @@
-## 👋 &nbsp;Hi! I'm Mohamed Amine
+## 👋 &nbsp;Hi! I'm Amine
 
 ### &nbsp;About Me
 
 💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying ICT at Higher school of communication of Tunis.\
+🎓 &nbsp;I have recently graduated from the Higher School of Communication in Tunis, where I studied ICT.\
 🌱 &nbsp;I'm on track for learning Artificial Intelligence, Reinforcement Learning, Mobile Development, Software engineering, and Embedded Systems.\
 😍 &nbsp;In my free time, I pursue Social media managemet, Graphic Design and Cars Blog Writing as hobbies/side hustles.\
 📄 I'm open to any feedbacks, suggestions and offers!
@@ -33,5 +33,5 @@
 
 ### &nbsp;Reach Me Via
 
-<a href="mailto:mohamedamine.toumi@supcom.tn"><img src="https://img.shields.io/badge/-mohamedamine.toumi@supcom.tn-000?&logo=Gmail"/></a>
+<a href="mailto:amine.tou@outlook.com"><img src="https://img.shields.io/badge/-mohamedamine.toumi@supcom.tn-000?&logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/aminetoumi/"><img src="https://img.shields.io/badge/-Mohamed%20Amine%20Toumi-000?&logo=Linkedin"/></a>
